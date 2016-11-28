@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-28T20:13:23.000Z</updated>
+  <updated>2016-11-28T20:24:30.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于Hexo安装</title>
+    <link href="http://yoursite.com/2016/11/29/%E5%85%B3%E4%BA%8EHexo%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2016/11/29/关于Hexo安装/</id>
+    <published>2016-11-28T16:10:32.000Z</published>
+    <updated>2016-11-28T20:24:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>不得不发发牢骚。<br>没错，这篇文章不是讲怎么安装hexo，因为能搜索到的教程说明有一大堆。而且这篇文章也不是为了解决那老三条报错的（已经懒得引用了），只能说重装的都装了。</p>
+<p>顺带，如果git不成功，记得把.deploy_git删除就行了。</p>
+<hr>
+<p>已经发现了解决办法，将<code>/usr/local/lib/node_modules/hexo-cli/node_modules/dtrace-provider/</code>里面的js文件改一改就好了（<a href="http://www.midaoi.com/2016/10/27/hexoError/#more" target="_blank" rel="external">具体说明</a>）</p>
+<p>话说会来，会写博客的也就会给自己看吧。（不得不说我写的东西没人看得懂）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不得不发发牢骚。&lt;br&gt;没错，这篇文章不是讲怎么安装hexo，因为能搜索到的教程说明有一大堆。而且这篇文章也不是为了解决那老三条报错的（已经懒得引用了），只能说重装的都装了。&lt;/p&gt;
+&lt;p&gt;顺带，如果git不成功，记得把.deploy_git删除就行了。&lt;/p&gt;
+&lt;hr&gt;
+
+    
+    </summary>
+    
+    
+      <category term="-闲聊" scheme="http://yoursite.com/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>欢迎</title>
