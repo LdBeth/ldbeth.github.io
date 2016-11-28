@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-28T20:24:30.000Z</updated>
+  <updated>2016-11-28T21:51:38.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>杂谈</title>
+    <link href="http://yoursite.com/2016/11/29/%E6%9D%82%E8%B0%88/"/>
+    <id>http://yoursite.com/2016/11/29/杂谈/</id>
+    <published>2016-11-28T21:51:38.000Z</published>
+    <updated>2016-11-28T21:51:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>因为最近比较忙，大部分活动都要鸽了，在此本座表达深深的歉意。<br>熬过这几天就算是出头了，不管画漫画写小说ygoosumalody都没有关系，似乎还有可能去面麻。<br>先到这里了。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因为最近比较忙，大部分活动都要鸽了，在此本座表达深深的歉意。&lt;br&gt;熬过这几天就算是出头了，不管画漫画写小说ygoosumalody都没有关系，似乎还有可能去面麻。&lt;br&gt;先到这里了。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="-杂谈" scheme="http://yoursite.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于Hexo安装</title>
     <link href="http://yoursite.com/2016/11/29/%E5%85%B3%E4%BA%8EHexo%E5%AE%89%E8%A3%85/"/>
     <id>http://yoursite.com/2016/11/29/关于Hexo安装/</id>
     <published>2016-11-28T16:10:32.000Z</published>
-    <updated>2016-11-28T20:24:30.000Z</updated>
+    <updated>2016-11-28T20:37:17.000Z</updated>
     
     <content type="html"><![CDATA[<p>不得不发发牢骚。<br>没错，这篇文章不是讲怎么安装hexo，因为能搜索到的教程说明有一大堆。而且这篇文章也不是为了解决那老三条报错的（已经懒得引用了），只能说重装的都装了。</p>
 <p>顺带，如果git不成功，记得把.deploy_git删除就行了。</p>
@@ -39,7 +61,7 @@
     </summary>
     
     
-      <category term="-闲聊" scheme="http://yoursite.com/tags/%E9%97%B2%E8%81%8A/"/>
+      <category term="闲聊" scheme="http://yoursite.com/tags/%E9%97%B2%E8%81%8A/"/>
     
   </entry>
   
@@ -48,7 +70,7 @@
     <link href="http://yoursite.com/2016/11/28/%E6%AC%A2%E8%BF%8E/"/>
     <id>http://yoursite.com/2016/11/28/欢迎/</id>
     <published>2016-11-28T11:40:43.000Z</published>
-    <updated>2016-11-28T20:13:23.000Z</updated>
+    <updated>2016-11-28T20:37:57.000Z</updated>
     
     <content type="html"><![CDATA[<p>欢迎来到LdBeth的Blog，我在这里给大家推荐一些有趣的东西。</p>
 <h1 id="Yandere-Simulator"><a href="#Yandere-Simulator" class="headerlink" title="Yandere Simulator"></a><a href="https://yanderedev.wordpress.com/" target="_blank" rel="external">Yandere Simulator</a></h1><p>这是一个十分有趣的游戏。<em>Don’t let Senpai notice you.</em> 我是因为这个游戏开始玩osu！的。这个游戏的作者很喜欢osu!，所以把peppy做为游戏中的角色加入到病娇模拟器里面。</p>
@@ -66,7 +88,7 @@
     </summary>
     
     
-      <category term="－游戏" scheme="http://yoursite.com/tags/%EF%BC%8D%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
