@@ -67,6 +67,27 @@
   </entry>
   
   <entry>
+    <title>hexo主题</title>
+    <link href="http://yoursite.com/2016/11/29/%E4%B8%BB%E9%A2%98/"/>
+    <id>http://yoursite.com/2016/11/29/主题/</id>
+    <published>2016-11-28T16:00:00.000Z</published>
+    <updated>2016-11-29T15:39:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&#x8FD9;&#x4E2A;hexo&#x4E3B;&#x9898;&#x662F;&#x4EE5;NeXt&#x4E3A;&#x57FA;&#x7840;&#x4FEE;&#x6539;&#x7684;&#x914D;&#x8272;&#x3002;<br>&#x73B0;&#x5728;&#x8FD8;&#x662F;&#x672A;&#x5B8C;&#x6210;&#x72B6;&#x6001;&#x3002;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;#x8FD9;&amp;#x4E2A;hexo&amp;#x4E3B;&amp;#x9898;&amp;#x662F;&amp;#x4EE5;NeXt&amp;#x4E3A;&amp;#x57FA;&amp;#x7840;&amp;#x4FEE;&amp;#x6539;&amp;#x7684;&amp;#x914D;&amp;#x8272;&amp;#x3002;&lt;br&gt;&amp;#x73
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>欢迎</title>
     <link href="http://yoursite.com/2016/11/28/%E6%AC%A2%E8%BF%8E/"/>
     <id>http://yoursite.com/2016/11/28/欢迎/</id>
