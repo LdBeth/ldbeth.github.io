@@ -1268,7 +1268,7 @@ pre .javascript .function {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
   transition-property: border;
-  border-bottom: 1px dashed #f9abf3;
+  border-bottom: 1px dashed #636363;
 }
 .posts-collapse .post-header::before {
   content: " ";
@@ -1287,7 +1287,7 @@ pre .javascript .function {
   transition-property: background;
 }
 .posts-collapse .post-header:hover {
-  border-bottom-color: #666;
+  border-bottom-color: #cfcfcf;
 }
 .posts-collapse .post-header:hover::before {
   background: #222;
@@ -1312,7 +1312,7 @@ pre .javascript .function {
   opacity: 0.6;
 }
 .posts-collapse .post-title a {
-  color: #666;
+  color: #f9abf3;
   border-bottom: none;
 }
 .page-home .post-type-quote .post-header,
@@ -1335,7 +1335,7 @@ pre .javascript .function {
 .posts-expand .post-title-link {
   display: inline-block;
   position: relative;
-  color: #555;
+  color: #f9abf3;
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
@@ -1681,7 +1681,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #94e782;
+  background: #7f25ff;
 }
 .links-of-blogroll {
   font-size: 13px;
