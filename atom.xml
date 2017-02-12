@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-09T04:52:40.000Z</updated>
+  <updated>2017-02-12T16:33:53.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>emacs.md</title>
+    <link href="http://yoursite.com/2017/02/13/emacs/"/>
+    <id>http://yoursite.com/2017/02/13/emacs/</id>
+    <published>2017-02-12T16:27:59.000Z</published>
+    <updated>2017-02-12T16:33:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><h1 id="imagemagick"><a href="#Imagemagick" class="headerlink" title="Imagemagick"></a>Imagemagick</h1><p>&#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x53EF;&#x4EE5;&#x7F16;&#x8F91;&#x56FE;&#x7247;&#x7684;&#x5DE5;&#x5177;&#x3002;</p>
+<h1 id="bian-yi-emacs"><a href="#&#x7F16;&#x8BD1;-Emacs" class="headerlink" title="&#x7F16;&#x8BD1; Emacs"></a>&#x7F16;&#x8BD1; Emacs</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">IMAGEMAGICK_CFLAGS=-I/usr/include/ImageMagick-6 IMAGEMAGICK_LIBS=<span class="string">&quot;-lMagickCore-6.Q16HDRI -lMagick++-6.Q16HDRI -lMagickWand-6.Q16HDRI&quot;</span></div></pre></td></tr></table></figure>
+<p>&#x5728;&#x7F16;&#x8BD1;&#x7684;&#x65F6;&#x5019;&#x52A0;&#x5165;&#x8FD9;&#x4E24;&#x884C;&#x3002;<br><em>&#x6CE8;&#x610F;:</em>&#x9700;&#x8981;&#x7528; Imagemagick-6</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;imagemagick&quot;&gt;&lt;a href=&quot;#Imagemagi
+    
+    </summary>
+    
+      <category term="Emacs" scheme="http://yoursite.com/categories/Emacs/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>一些有用的下载工具</title>
