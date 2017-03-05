@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-13T14:13:17.000Z</updated>
+  <updated>2017-03-05T17:12:32.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>emacs.md</title>
+    <title>关于Emacs</title>
     <link href="http://yoursite.com/2017/02/13/emacs/"/>
     <id>http://yoursite.com/2017/02/13/emacs/</id>
     <published>2017-02-12T16:27:59.000Z</published>
-    <updated>2017-02-13T14:13:17.000Z</updated>
+    <updated>2017-03-05T17:12:32.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><script src="/assets/js/DPlayer.min.js"> </script><h1 id="imagemagick"><a href="#Imagemagick" class="headerlink" title="Imagemagick"></a>Imagemagick</h1><p>&#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x53EF;&#x4EE5;&#x7F16;&#x8F91;&#x56FE;&#x7247;&#x7684;&#x5DE5;&#x5177;&#x3002;<br>&#x5728; Emacs &#x4E0B;&#x7684;&#x4E3B;&#x8981;&#x4F5C;&#x7528;&#x662F;&#x8C03;&#x8282;&#x56FE;&#x7247;&#x5927;&#x5C0F;&#x3002;</p>
 <h1 id="bian-yi-emacs"><a href="#&#x7F16;&#x8BD1;-Emacs" class="headerlink" title="&#x7F16;&#x8BD1; Emacs"></a>&#x7F16;&#x8BD1; Emacs</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">./configure --with-ns --with-modules --with-imagemagick</div></pre></td></tr></table></figure>
