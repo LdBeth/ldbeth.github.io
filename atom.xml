@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-21T11:18:17.000Z</updated>
+  <updated>2017-05-13T02:09:46.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TECO 简介</title>
+    <link href="http://yoursite.com/2017/05/12/TECO/"/>
+    <id>http://yoursite.com/2017/05/12/TECO/</id>
+    <published>2017-05-12T02:55:06.000Z</published>
+    <updated>2017-05-13T02:09:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><script src="/assets/js/DPlayer.min.js"> </script><p>TECO&#x662F;&#x4E00;&#x4E2A;&#x7ECF;&#x5178;&#x7684;&#x6587;&#x5B57;&#x7F16;&#x8F91;&#x5668;&#xFF0C;&#x5168;&#x79F0;&#x4E3A; Text Editor and COrrector &#xFF0C;&#x539F;&#x5148;&#x4E3A; Tape Editor and<br>COrrector&#x3002;&#x4ECE;&#x8FD9;&#x4E2A;&#x540D;&#x5B57;&#x5C31;&#x80FD;&#x770B;&#x51FA;&#x8FD9;&#x4E2A;&#x7F16;&#x8F91;&#x5668;&#x6709;&#x591A;&#x8001;&#x4E86;&#x3002;</p>
+<a id="more"></a>
+<p>#&#x4ECE;&#x7F16;&#x8F91;&#x5668;&#x4E4B;&#x6218;&#x5F00;&#x59CB;&#x8BF4;&#x8D77;</p>
+<blockquote>
+<p>Vim &#x7528;&#x6237;&#xFF1A;&#x7528; Emacs &#x7684;&#x90FD;&#x662F;&#x667A;&#x969C;<br>Emacs &#x7528;&#x6237;&#xFF1A;Vi&#x8FD9;&#x79CD;&#x4E1C;&#x897F;&#x4E5F;&#x80FD;&#x7B97;&#x7F16;&#x8F91;&#x5668;&#xFF1F;<br>TECO &#x7528;&#x6237;&#xFF1A;&#x6211;&#x662F;&#x7238;&#x7238;&#xFF0C;&#x4F60;&#x4EEC;&#x90FD;&#x662F;&#x513F;&#x5B50;</p>
+</blockquote>
+<p>&#x5982;&#x679C;&#x8BF4; Vi &#x7C7B;&#x7F16;&#x8F91;&#x5668;&#x7684;&#x7279;&#x8272;&#x662F;&#x7528;&#x5404;&#x79CD;&#x6307;&#x4EE4;&#x6765;&#x7F16;&#x8F91;&#x7684;&#x8BDD;&#xFF0C;Emacs &#x5C31;&#x662F;&#x7528;&#x5404;&#x79CD;&#x9884;&#x5B9A;&#x4E49;&#x7684;&#x51FD;&#x6570;&#xFF08;&#x6216;&#x8005;&#x8BF4;&#x5B8F;&#xFF09;<br>&#x6765;&#x64CD;&#x4F5C;&#x7684;&#x7F16;&#x8F91;&#x5668;&#x3002;&#x90A3;&#x4E48;&#xFF0C;TECO &#x7684;&#x7279;&#x8272;&#x5C31;&#x662F;&#x7ED3;&#x5408;&#x5404;&#x79CD;&#x547D;&#x4EE4;&#x548C;&#x5B8F;&#x6765;&#x5BF9;&#x6587;&#x672C;&#x8FDB;&#x884C;&#x64CD;&#x4F5C;&#x3002;</p>
+<p>&#x5199;&#x5728; teco.el &#x4E2D;&#x7684; teco &#x54F2;&#x5B66;&#x5982;&#x662F;&#x8BF4;&#xFF1A;</p>
+<blockquote>
+<p>&#x771F;&#x6B63;&#x7684;&#x7A0B;&#x5E8F;&#x5458;&#xFF0C;&#x4ED6;&#x4EEC;&#x8981;&#x7684;&#x4E0D;&#x662F;&#x4E00;&#x4E2A;&#x6240;&#x89C1;&#x5373;&#x6240;&#x5F97;&#x7684;&#x7F16;&#x8F91;&#x5668;&#xFF0C;&#x4ED6;&#x4EEC;&#x8981;&#x7684;&#x662F;&#x4E00;&#x4E2A;&#x7B80;&#x5355;&#x3001;&#x5F3A;&#x5927;&#x3001;<br>&#x795E;&#x79D8;&#x800C;&#x53C8;&#x82DB;&#x523B;&#x7684;&#x7F16;&#x8F91;&#x5668;&#x3002;&#x8FD9;&#x5C31;&#x662F; TECO&#x3002;</p>
+</blockquote>
+<p>&#x6CA1;&#x9519;&#xFF0C;&#x8FD9;&#x5C31;&#x662F; TECO&#xFF0C;&#x552F;&#x4E00;&#x800C;&#x771F;&#x7406;&#x7684;&#x7F16;&#x8F91;&#x5668;&#x3002;</p>
+<p>#&#x5982;&#x4F55;&#x4F7F;&#x7528; TECO</p>
+<p>&#x53EF;&#x80FD;&#x8BB8;&#x591A;&#x4EBA;&#x89C9;&#x5F97; TECO &#x662F;&#x4E00;&#x4E2A;&#x7C7B; sed &#x7684;&#x7F16;&#x8F91;&#x5668;&#xFF0C;&#x5B8C;&#x5168;&#x4F9D;&#x9760;&#x8F93;&#x5165;&#x547D;&#x4EE4;&#x6765;&#x7F16;&#x8F91;&#xFF0C;&#x65F6;&#x4E0D;&#x65F6;&#x770B;&#x4E00;&#x770B;&#x4E0A;&#x4E0B;&#x6587;<br>&#x6765;&#x5B9A;&#x4F4D;&#x3002;&#x6CA1;&#x9519;&#xFF0C;&#x65E9;&#x671F;&#x7684; TECO &#x7684;&#x5374;&#x662F;&#x8FD9;&#x6837;&#x7684;&#x3002;</p>
+<p>&#x4E0D;&#x8FC7;&#x5B9E;&#x9645;&#x4E0A;&#xFF0C;TECOEmacs &#x65F6;&#x4EE3;&#x6240;&#x7528;&#x7684; TECO&#xFF0C;&#x5DF2;&#x7ECF;&#x6709;&#x4E86;&#x6240;&#x8C13; Video Mode &#x7684;&#x6982;&#x5FF5;&#x3002;&#x90A3;&#x5C31;&#x662F;&#x5728;&#x5C4F;&#x5E55;&#x4E0A;<br>&#x5212;&#x5206;&#x51FA;&#x4E00;&#x5757;&#x533A;&#x57DF;&#x6765;&#x663E;&#x793A;&#x5F53;&#x524D;&#x6B63;&#x5728;&#x7F16;&#x8F91;&#x7684;&#x6587;&#x7AE0;&#xFF0C;&#x6BCF;&#x6B21;&#x8F93;&#x5165;&#x5B8C;&#x4E00;&#x6BB5;&#x547D;&#x4EE4;&#x4EE5;&#x540E;&#x5237;&#x65B0;&#x5C4F;&#x5E55;&#x6765;&#x663E;&#x793A;&#x7ED3;&#x679C;&#x3002;<br>&#x73B0;&#x5728;&#x5E38;&#x89C1; TECO &#x5B9E;&#x73B0;&#x4E2D;&#x7684; TECOC &#x5C31;&#x662F;&#x8FD9;&#x6837;&#xFF0C;&#x800C;&#x5B83;&#x7684;&#x4F5C;&#x8005;&#x662F;&#x4E3A;&#x4E86;&#x5C3D;&#x53EF;&#x80FD;&#x4FDD;&#x7559; TECO &#x7684;&#x539F;&#x59CB;&#x98CE;&#x5473;&#x3002;<br>&#x4E8B;&#x5B9E;&#x4E0A;&#xFF0C;&#x6BD4;&#x8F83;&#x73B0;&#x4EE3;&#x7684; TECO &#x5B9E;&#x73B0;&#xFF0C;&#x6BD4;&#x5982; Video TECO &#xFF0C;&#x6216;&#x8005;&#x6211;&#x6B63;&#x5728;&#x7528;&#x7684; SciTECO&#xFF0C;&#x90FD;&#x80FD;&#x5728;&#x8F93;&#x5165;&#x547D;&#x4EE4;<br>&#x7684;&#x540C;&#x65F6;&#x5B9E;&#x65F6;&#x5237;&#x65B0;&#x7ED3;&#x679C;&#x3002;&#x4E5F;&#x5C31;&#x662F;&#x8BF4;&#xFF0C;&#x4F7F;&#x7528;&#x8005;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x8F93;&#x5165;&#x4E00;&#x6BB5;&#x5F88;&#x957F;&#x7684;&#x547D;&#x4EE4;&#x800C;&#x4E0D;&#x7528;&#x62C5;&#x5FC3;&#x4F1A;&#x51FA;&#x4E25;&#x91CD;&#x7684;&#x9519;&#x8BEF;&#x3002;<br>&#x4E8B;&#x5B9E;&#x4E0A;&#x5982;&#x679C;&#x4F60;&#x5728;&#x8F93;&#x5165;&#x7F16;&#x8F91;&#x547D;&#x4EE4;&#x7684;&#x540C;&#x65F6;&#x53D1;&#x73B0;&#x81EA;&#x5DF1;&#x6253;&#x9519;&#x4E86;&#x5B57;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x6309;&#x4E00;&#x6B21; ESC &#x7136;&#x540E;&#x63A7;&#x5236;&#x5149;&#x6807;<br>&#x5230;&#x524D;&#x9762;&#x51FA;&#x9519;&#x7684;&#x5730;&#x65B9;&#xFF0C;&#x4FEE;&#x6B63;&#x5B8C;&#x9519;&#x8BEF;&#x4EE5;&#x540E;&#x7EE7;&#x7EED;&#x6162;&#x6162;&#x8F93;&#x5165;&#x3002;&#x6211;&#x5728;&#x6253;&#x524D;&#x9762;&#x90A3;&#x53E5;&#x8BDD;&#x7684;&#x65F6;&#x5019;&#x5C31;&#x7528;&#x4E86;&#x8FD9;&#x4E2A;&#x6280;&#x5DE7;&#x3002;</p>
+<p>#&#x4E00;&#x4E2A;&#x4F8B;&#x5B50;</p>
+<p>&#x90A3;&#x4E48;&#xFF0C;&#x5B9E;&#x9645;&#x7528;&#x8D77;&#x6765;&#x662F;&#x600E;&#x6837;&#x5462;&#xFF1F;</p>
+<p>&#x5728; TECO &#x4E2D;&#xFF0C;&#x5F00;&#x59CB;&#x8F93;&#x5165;&#x6587;&#x5B57;&#x7684;&#x547D;&#x4EE4;&#x662F;<code>I</code>&#xFF0C; &#x4E0D;&#x7528;&#x6000;&#x7591;&#xFF0C;&#x5C31;&#x662F;&#x8FD9;&#x4E2A;&#xFF0C;&#x6CE8;&#x610F; TECO &#x7684;&#x547D;&#x4EE4;&#x4E0D;&#x662F;&#x5927;&#x5C0F;&#x5199;&#x654F;<br>&#x611F;&#x7684;&#xFF0C;&#x4E5F;&#x5C31;&#x662F;&#x8BF4; <code>i</code> &#x4E5F;&#x662F; OK &#x7684;&#x3002;</p>
+<p>&#x8981;&#x8F93;&#x5165; &#x201C;Hello World!&#x201C;&#xFF0C;&#x53EA;&#x8981;&#x5728;&#x63D0;&#x793A;&#x7B26; <code>*</code> &#x540E;&#x9762;&#x8F93;&#x5165; <code>iHello Word!</code> &#x5C31;&#x53EF;&#x4EE5;&#x4E86;&#x3002;<br>&#x7B49;&#x7B49;&#xFF0C;&#x597D;&#x50CF;&#x8F93;&#x9519;&#x4E86;&#x3002;&#x6CA1;&#x5173;&#x7CFB;&#xFF0C;&#x53EA;&#x8981;&#x63A5;&#x7740;&#x8F93;&#x5165;&#x4E00;&#x4E2A; <code>$</code>&#xFF0C;&#x5B9E;&#x9645;&#x4E0A;&#x662F;&#x4E00;&#x4E2A; ESCape &#x5B57;&#x7B26;&#xFF0C;<br>&#x7136;&#x540E;&#x7EE7;&#x7EED;&#x8F93;&#x5165; <code>-2cil</code>&#xFF0C;&#x6700;&#x540E;&#x6309;&#x4E24;&#x4E0B; ESC &#x5C31;&#x5B8C;&#x6210;&#x4E86;&#x3002;</p>
+<p>&#x6CA1;&#x9519;&#xFF0C;&#x662F;&#x4E0D;&#x662F;&#x5C31;&#x50CF;&#x5728;&#x7528; VI &#x4E00;&#x6837;&#x5462;&#x3002;&#x5B9E;&#x9645;&#x4E0A;&#xFF0C;TECO-11 &#x4E2D;&#x7684;&#x786E;&#x6709;&#x4E00;&#x4E2A;&#x6A21;&#x5F0F;&#xFF08;&#x6216;&#x8005;&#x8BF4;&#x5B8F;&#xFF09;<br>&#x53EB;&#x505A; VIEDIT&#x3002;&#x60F3;&#x5FC5;&#x5404;&#x4F4D;&#x4E5F;&#x5C31;&#x660E;&#x767D; VI &#x8FD9;&#x4E2A;&#x540D;&#x5B57;&#x662F;&#x600E;&#x4E48;&#x6765;&#x7684;&#x4E86;&#x3002;</p>
+<p>#&#x4F7F;&#x7528;&#x611F;&#x53D7;</p>
+<p>&#x6211;&#x89C9;&#x5F97;&#x53EF;&#x4EE5;&#x7528;&#x8FD9;&#x6837;&#x4E00;&#x53E5;&#x8BDD;&#x6982;&#x62EC;&#xFF1A;</p>
+<blockquote>
+<p>&#x5C31;&#x50CF;&#x7528;&#x5973;&#x5B69;&#x7684;&#x53D1;&#x68A2;&#x5207;&#x5272;&#x65F6;&#x95F4;&#x7684;&#x5FE7;&#x4F24;&#x3002;</p>
+</blockquote>
+<p>&#x5728; Video TECO &#x91CC;&#x9762;&#xFF0C;&#x6BCF;&#x4E00;&#x4E2A;&#x547D;&#x4EE4;&#x5C06;&#x8981;&#x4EA7;&#x751F;&#x7684;&#x6548;&#x679C;&#x90FD;&#x4F1A;&#x5373;&#x65F6;&#x663E;&#x793A;&#x51FA;&#x6765;&#xFF0C;&#x4E0D;&#x50CF;&#x5176;&#x5B83;&#x7F16;&#x8F91;&#x5668;&#xFF0C;<br>&#x5C4F;&#x5E55;&#x4E0A;&#x663E;&#x793A;&#x7684;&#x662F;&#x5DF2;&#x7ECF;&#x53D1;&#x751F;&#x7684;&#x4E8B;&#xFF0C;Video TECO &#x663E;&#x793A;&#x7684;&#x5168;&#x90FD;&#x662F;&#x8FD8;&#x6CA1;&#x6709;&#x4F5C;&#x51FA;&#x7684;&#x4FEE;&#x6539;&#xFF0C;&#x6709;&#x4E00;&#x79CD;<br>&#x81EA;&#x5DF1;&#x5728;&#x7F16;&#x8F91;&#x672A;&#x6765;&#x7684;&#x5947;&#x5999;&#x89C6;&#x611F;&#x3002;&#x4E0D;&#x50CF;&#x8001;&#x5F0F; TECO&#xFF0C;&#x5F97;&#x65F6;&#x4E0D;&#x65F6;&#x6253;&#x5370;&#x5185;&#x5BB9;&#x6765;&#x67E5;&#x770B;&#x662F;&#x5426;&#x51FA;&#x9519;&#xFF0C;Video<br>TECO &#x4F7F;&#x5F97;&#x5373;&#x4F7F;&#x662F;&#x4E00;&#x4E2A;&#x65B0;&#x624B;&#x4E5F;&#x80FD;&#x8F93;&#x5165;&#x4E00;&#x4E2A;&#x5F88;&#x957F;&#x7684;&#x547D;&#x4EE4;&#x518D;&#x6267;&#x884C;&#xFF0C;&#x51E0;&#x4E4E;&#x4E0D;&#x9700;&#x8981;&#x88AB; ESC &#x6253;&#x65AD;&#x3002;</p>
+<p>&#x8FD9;&#x5C31;&#x662F; TECO &#x7684;&#x9B45;&#x529B;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;TECO&amp;#x662F;&amp;#x4E00;&amp;#x4E2A;&amp;#x7ECF;&amp;#x5178;&amp;#x7684;&amp;#x6587;&amp;#x5B57;&amp;#x7F16;&amp;#x8F91;&amp;#x5668;&amp;#xFF0C;&amp;#x5168;&amp;#x79F0;&amp;#x4E3A; Text Editor and COrrector &amp;#xFF0C;&amp;#x539F;&amp;#x5148;&amp;#x4E3A; Tape Editor and&lt;br&gt;COrrector&amp;#x3002;&amp;#x4ECE;&amp;#x8FD9;&amp;#x4E2A;&amp;#x540D;&amp;#x5B57;&amp;#x5C31;&amp;#x80FD;&amp;#x770B;&amp;#x51FA;&amp;#x8FD9;&amp;#x4E2A;&amp;#x7F16;&amp;#x8F91;&amp;#x5668;&amp;#x6709;&amp;#x591A;&amp;#x8001;&amp;#x4E86;&amp;#x3002;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="TECO" scheme="http://yoursite.com/categories/TECO/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>GunPG</title>
